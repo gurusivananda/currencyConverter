@@ -19,7 +19,7 @@ A simple, responsive Currency Converter web application that allows users to con
 
 ## 📸 Screenshot
 
-![Currency Converter Screenshot](./screenshot.png)
+![Currency Converter Screenshot](c:\Users\marth\Pictures\Screenshots\Screenshot 2025-04-11 232438.png)
 
 ## 📂 Folder Structure
 
