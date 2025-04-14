@@ -17,6 +17,10 @@ A simple, responsive Currency Converter web application that allows users to con
 - **JavaScript**
 - **Exchange Rate API** (like [ExchangeRate API](https://www.exchangerate-api.com/) or similar)
 
+
+### 🔗 Live Demo  
+👉 [Convert Currency](https://gurusivananda.github.io/currencyConverter/)
+
 ## 📸 Screenshot
 
 ![Currency Converter Screenshot](./screenshot.png)
